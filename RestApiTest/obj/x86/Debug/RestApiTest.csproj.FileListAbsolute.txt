@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\bin\Debug\RestApiTest.exe
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\bin\Debug\RestApiTest.pdb
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\obj\x86\Debug\RestApiTest.exe
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\obj\x86\Debug\RestApiTest.pdb
+c:\users\joe\documents\visual studio 2010\Projects\RestApiTest\RestApiTest\bin\Debug\RestApiTest.exe.config
